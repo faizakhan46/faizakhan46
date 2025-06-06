@@ -5,18 +5,6 @@
 💻 Focused on HTML, CSS, JavaScript, Python & Django  
 ✨ I enjoy turning ideas into visually beautiful and functional websites.
 
----
-
-## 💼 Projects
-Here are a few things I’ve worked on recently:
-
-- 🌟 [Business Landing Page](https://faizakhan46.github.io/Business-landing-page/)
-- 🎨 [Creative Portfolio](https://faizakhan46.github.io/Creative-portfolio/)
-
-🌐 A passionate **Frontend and Backend Developer** with a creative eye and a love for clean, responsive design.  
-🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
-💻 Focused on HTML, CSS, JavaScript, Python & Django  
-✨ I enjoy turning ideas into visually beautiful and functional websites.
 
 ---
 
